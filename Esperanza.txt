@@ -2,3 +2,5 @@ Inicio de escrito para el proyecto esperanza.
 
 Esperanza es un ejercico donde busco indagar en preguntas relacionadas a la luz. 
 Creo que se relaciona con la busqueda de sentido. 
+
+Haciendo cambios para probar la subida en linea, aun no lo he subido
